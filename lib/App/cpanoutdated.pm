@@ -1,4 +1,6 @@
 package App::cpanoutdated;
+
+# ABSTRACT: detect outdated CPAN modules in your environment.
 use strict;
 use warnings;
 our $VERSION = "0.28";
